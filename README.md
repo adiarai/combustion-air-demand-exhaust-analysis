@@ -1,6 +1,8 @@
-# combustion-air-demand-exhaust-analysis
-Energy Process and Systems Engineering. Analysis of air demand and exhaust gas composition using molecular and elemental stoichiometry. Includes Julia implementation for air–fuel ratios, excess air, and exhaust gas modeling.
-# Energy Process and Systems Engineering – Assignment 2
+ # Energy Process and Systems Engineering – Assignment 2
+
+**Group 5:**  
+- Muhammad Adil Arain  
+- Daniel Haufe  
 
 ## 📘 Project Description
 This repository contains Assignment 2 for the course *Energy Process and Systems Engineering*.  
@@ -43,3 +45,4 @@ The project is implemented in **Julia** and consists of:
 
 ## 📌 Academic Context
 This repository is intended for academic use and documentation of coursework.
+
