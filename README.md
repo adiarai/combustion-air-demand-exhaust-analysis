@@ -1,9 +1,5 @@
  # Energy Process and Systems Engineering – Assignment 2
 
-**Group 5:**  
-- Muhammad Adil Arain  
-- Daniel Haufe  
-
 ## 📘 Project Description
 This repository contains Assignment 2 for the course *Energy Process and Systems Engineering*.  
 The project focuses on stoichiometric combustion analysis, air demand calculation, and exhaust gas composition using both molecular and elemental approaches.
