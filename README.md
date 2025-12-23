@@ -41,4 +41,51 @@ The project is implemented in **Julia** and consists of:
 
 ## 📌 Academic Context
 This repository is intended for academic use and documentation of coursework.
+## 🧮 Actual Numerical Results
+
+### Natural Gas Combustion (Molar Basis)
+
+At stoichiometric conditions (λ = 1.0):
+
+- Minimum air demand:  
+  X_air,min = 9.52 mol air / mol fuel
+
+- Oxygen supplied:  
+  X_O₂,in = 2.00 mol O₂ / mol fuel
+
+- Exhaust gas mole fractions:
+  - O₂ ≈ 0.00
+  - N₂ ≈ 0.71
+  - CO₂ ≈ 0.09
+  - H₂O ≈ 0.20
+
+At excess air ratio λ = 1.5:
+
+- Actual air demand:  
+  X_air,in = 14.28 mol air / mol fuel
+
+- Exhaust gas mole fractions:
+  - O₂ ≈ 0.07
+  - N₂ ≈ 0.74
+  - CO₂ ≈ 0.06
+  - H₂O ≈ 0.13
+### Coal Combustion (Mass Basis)
+
+At λ = 1.0:
+
+- Minimum air demand:  
+  W_air,min = 8.64 kg air / kg fuel
+
+- Exhaust gas mass fractions:
+  - CO₂ ≈ 0.18
+  - H₂O ≈ 0.11
+  - SO₂ ≈ 0.02
+  - N₂ ≈ 0.69
+
+At λ = 1.8:
+
+- Actual air demand:  
+  W_air,in = 15.55 kg air / kg fuel
+
+- Residual O₂ mass fraction ≈ 0.08
 
